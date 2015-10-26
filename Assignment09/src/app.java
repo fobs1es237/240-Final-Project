@@ -15,6 +15,7 @@ public class app {
      */
     public static void main(String[] args) {
         myJFrame mjf = new myJFrame();
+        System.out.println("Hello, this is a test");
 
     }
     
